@@ -1,0 +1,1 @@
+start "" "C:\Program Files\Python311\python.exe" "babe-bot.py" "%1"
